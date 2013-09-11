@@ -1,0 +1,16 @@
+{
+  "name": "talk-images",
+  "version": "0.0.0",
+  "description": "Auto generation of responsive image variants in development and production",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Peter Müller <munter@fumle.dk>",
+  "license": "BSD",
+  "devDependencies": {
+    "livestyle": "=0.6.3",
+    "assetgraph-builder": "=1.8.0beta35"
+  }
+}
