@@ -38,5 +38,17 @@ Examples of decide in the browser
 - This is something the frontend engineer does, has to do, not the graphics artist.
 
 
-Conclusion
-----------
+How is this useful?
+-------------------
+
+It's not. It's just pixels on your screen, stored in nothing but memory.
+
+It gets useful once you have something that can translate these instructions to files. --> assetgraph-builder
+
+
+Implications
+------------
+- Keep your original files
+- Use vector graphics
+- Resize and try in development
+- Don't bug your designer

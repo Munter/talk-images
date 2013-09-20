@@ -1,0 +1,30 @@
+#logo {
+	margin: 0 auto;
+	background: url(svg/tradeshift.svg?setFormat=png&resize=1024);
+	width: 1024px;
+	height: 326px;
+}
+
+@media only screen and (max-width: 1024px) {
+	#logo {
+		width: 800px;
+		height: 255px;
+		background: url(svg/tradeshift.svg?setFormat=png&resize=800&modulate=100,0);
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	#logo {
+		width: 640px;
+		height: 204px;
+		background: url(svg/tradeshift.svg?setFormat=png&resize=640&rotate=black,180);
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	#logo {
+		width: 280px;
+		height: 280px;
+		background: url(svg/favicon.svg?setFormat=png&resize=280);
+	}
+}

@@ -1,0 +1,17 @@
+.icon-cafe {
+	width: 32px;
+	height: 31px;
+	background: url(svg/logo.svg?inkscape&resize=32&sprite=foo);
+}
+
+.icon-pirate {
+	width: 32px;
+	height: 26px;
+	background: url(svg/face.svg?inkscape&resize=32&sprite=foo);
+}
+
+.icon-favicon {
+	width: 32px;
+	height: 32px;
+	background: url(svg/favicon.svg?inkscape&resize=32&sprite=bar);
+}
